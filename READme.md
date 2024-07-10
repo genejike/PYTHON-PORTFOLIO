@@ -13,12 +13,13 @@ python -m venv env
 
 ```
 - On Windows type:
+ ```
 python -m pip install -r requirements.txt
-
+```
 On MacOS type:
+```
 pip3 install -r requirements.txt
-
-
+```
 run the api.py
 
 ```
