@@ -26,4 +26,4 @@ run the api.py
 python app.py
 
 ```
-- visit http:127.0.0.0:5000/api 
+- visit http:127.0.0.1:5000/api on your local machine 
